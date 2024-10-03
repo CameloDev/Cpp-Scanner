@@ -1,0 +1,71 @@
+﻿  blur.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\ImGui\imgui_widgets.cpp(7144,26): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\ImGui\imgui_widgets.cpp(7144,23): warning C4244: 'inicializando': conversão de 'double' para 'const float', possível perda de dados
+  imgui_custom.cpp
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(41,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,33): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,33): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,49): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,49): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,66): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,66): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,82): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,82): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  imgui_tricks.cpp
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(41,22): warning C4267: 'inicializando': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,33): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,33): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,49): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,49): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,66): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,66): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,82): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.hpp(80,82): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.cpp(22,23): warning C4244: '+=': conversão de 'const float' para '_Ty2', possível perda de dados
+          with
+          [
+              _Ty2=int
+          ]
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imgui_tricks.cpp(26,23): warning C4244: '-=': conversão de 'const float' para '_Ty2', possível perda de dados
+          with
+          [
+              _Ty2=int
+          ]
+  main.cpp
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imguipp_v2.h(94,58): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imguipp_v2.h(94,45): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imguipp_v2.h(94,32): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\imguipp_v2.h(94,19): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(116,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(116,16): warning C4244: 'inicializando': conversão de 'double' para 'const float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(156,18): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(156,12): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(165,50): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(166,15): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(169,45): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(181,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(187,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(211,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(212,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(237,18): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(238,18): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(243,25): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(249,25): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(264,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(287,55): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(287,39): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(288,65): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(288,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\main.cpp(803,23): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2B07' não pode ser representado na página de código atual (1252)
+  Gerando código
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 2416 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finalizada a geração de código
+  example.vcxproj -> C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\Simple Multi Loader.exe

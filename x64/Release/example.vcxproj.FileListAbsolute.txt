@@ -1,0 +1,12 @@
+C:\Users\prozi\Downloads\Source_c (1)\Source c++\x64\Release\example.vcxproj.CopyComplete
+C:\Users\prozi\Downloads\Source_c (1)\Source c++\x64\Release\Simple Multi Loader.exe
+C:\Users\prozi\Downloads\Source_c (1)\Source c++\x64\Release\D3DCompiler_43.dll
+C:\Users\prozi\Downloads\Source_c (1)\Source c++\x64\Release\d3dx9_43.dll
+C:\Users\prozi\Downloads\Source_c (1)\Source c++\x64\Release\d3dx10_43.dll
+C:\Users\prozi\Downloads\Source_c (1)\Source c++\x64\Release\d3dx11_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\example.vcxproj.CopyComplete
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\Simple Multi Loader.exe
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\D3DCompiler_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\d3dx9_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\d3dx10_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\d3dx11_43.dll
