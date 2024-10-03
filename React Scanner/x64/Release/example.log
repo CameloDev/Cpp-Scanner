@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\imguipp_v2.h(94,58): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\imguipp_v2.h(94,45): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\imguipp_v2.h(94,32): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\imguipp_v2.h(94,19): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(92,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(92,16): warning C4244: 'inicializando': conversão de 'double' para 'const float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(130,18): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(130,12): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(139,50): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(140,15): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(143,45): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(155,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(161,17): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(185,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(186,36): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(211,18): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(212,18): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(217,25): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(223,25): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(238,19): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(261,55): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(261,39): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(262,65): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(262,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\main.cpp(734,23): warning C4566: caractere representado por nome de caractere universal (UCN) '\u2B07' não pode ser representado na página de código atual (1252)
+  Gerando código
+  0 of 2372 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  example.vcxproj -> C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\x64\Release\React Scanner.exe

@@ -1,0 +1,10 @@
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\D3DCompiler_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\d3dx9_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\d3dx10_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\x64\Release\d3dx11_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\React Scanner c++\React Scanner\x64\Release\example.vcxproj.Up2Date
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\x64\Release\D3DCompiler_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\x64\Release\d3dx9_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\x64\Release\d3dx10_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\x64\Release\d3dx11_43.dll
+C:\Users\prozi\OneDrive\Documentos\form1_siticone\Scanner\React Scanner\x64\Release\example.vcxproj.Up2Date
