@@ -30,4 +30,4 @@ Para compilar e executar o projeto, você precisará de:
 
 1. Clone o repositório em sua máquina local:
    ```bash
-   git clone https://github.com/camelodev/scanner.git
+   git clone https://github.com/CameloDev/Cpp-Scanner.git
