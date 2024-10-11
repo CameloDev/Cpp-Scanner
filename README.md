@@ -32,4 +32,4 @@ Para compilar e executar o projeto, você precisará de:
    ```bash
    git clone https://github.com/CameloDev/Cpp-Scanner.git
    
-[![Github Page](https://komarev.com/ghpvc/?username=your-github-camelo-dev&color=131313)](https://github.com/camelodev/cpp-scanner)
+[![Github Page](https://komarev.com/ghpvc/?username=your-github-camelo-dev-cpp-scanner&color=131313)](https://github.com/camelodev/cpp-scanner)
